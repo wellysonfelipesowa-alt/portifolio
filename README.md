@@ -1,4 +1,5 @@
-O nome do projeto é portifolio.
+O nome do projeto é portifolio pessoal.
+
 atividade Forcetech
 
 Esse projeto foi desenvolvido como objetivo de adquirir conhecimentos sobre html e css, como tambem o cumprimento da atividade da Forcetech.
